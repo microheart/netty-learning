@@ -5,6 +5,6 @@
 
 ## Telnet
 类似Echo，输入'bye’结束会话。
-核心组合`LineBasedFrameDecoder`/`DelimiterBasedFrameDecoder`，`StringDecoder`和`StringEncoder`
+核心处理逻辑为组合 `LineBasedFrameDecoder`/`DelimiterBasedFrameDecoder`，`StringDecoder`和`StringEncoder` 等Handler。
 
 可进一步扩展，如提供天气等公共服务。
