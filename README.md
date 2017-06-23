@@ -12,3 +12,9 @@
 
 ## Heart Beat
 心跳检测
+
+##  Packet Fragmentation and Assembly 
+粘包和拆包
+TCP是一个“流”的协议，一个完整的包可能会被TCP拆分成多个包进行发送，也可能把小的封装成一个大的数据包发送，这就是所谓的TCP粘包和拆包问题。
+
+
