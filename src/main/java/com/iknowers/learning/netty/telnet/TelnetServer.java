@@ -1,4 +1,4 @@
-package net.cocloud.netty.telnet;
+package com.iknowers.learning.netty.telnet;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelInitializer;

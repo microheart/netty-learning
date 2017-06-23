@@ -1,4 +1,4 @@
-package net.cocloud.netty.telnet;
+package com.iknowers.learning.netty.telnet;
 
 import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;

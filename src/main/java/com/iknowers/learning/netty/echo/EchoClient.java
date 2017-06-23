@@ -1,4 +1,4 @@
-package net.cocloud.netty.echo;
+package com.iknowers.learning.netty.echo;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;

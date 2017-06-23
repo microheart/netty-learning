@@ -1,4 +1,4 @@
-package net.cocloud.netty.echo;
+package com.iknowers.learning.netty.echo;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
